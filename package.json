@@ -1,0 +1,15 @@
+{
+  "name": "ado-test-agent",
+  "version": "1.0.0",
+  "description": "AI agent to generate and upload test cases from ADO user stories",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.54.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "exceljs": "^4.4.0"
+  }
+}

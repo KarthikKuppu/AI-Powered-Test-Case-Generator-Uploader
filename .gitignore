@@ -1,0 +1,7 @@
+.env
+node_modules/
+stories-input.xlsx
+test-cases-output.xlsx
+story-gaps.md
+~$*.xlsx
+story-gaps.md
